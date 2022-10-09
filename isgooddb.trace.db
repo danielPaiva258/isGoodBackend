@@ -1,0 +1,6 @@
+2022-10-09 20:28:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select usuario0_.id as id1_4_, usuario0_.cep as cep2_4_, usuario0_.data_cadastro as data_cad3_4_, usuario0_.email as email4_4_, usuario0_.nome as nome5_4_, usuario0_.senha as senha6_4_ from usuario usuario0_ [42104-214]
+2022-10-09 20:30:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select usuario0_.id as id1_4_, usuario0_.cep as cep2_4_, usuario0_.data_cadastro as data_cad3_4_, usuario0_.email as email4_4_, usuario0_.nome as nome5_4_, usuario0_.senha as senha6_4_ from usuario usuario0_ [42104-214]
