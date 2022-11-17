@@ -94,7 +94,7 @@ public class Empresa {
 	public Empresa() {}
 	public Empresa(String nome, String apresentacao, Usuario usuario_owner, String endereco, String cep,
 					String url_facebook, String url_twitter, String url_instagram,
-					String url_tripadvisor, Double latitude, Double Longitude, String logo, Integer rating) {
+					String url_tripadvisor, Double latitude, Double longitude, String logo, Integer rating) {
 		setNome(nome);
 		setUsuario_owner(usuario_owner);
 		setEndereco(endereco);
